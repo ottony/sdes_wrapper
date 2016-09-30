@@ -1,0 +1,14 @@
+{
+  "name": "sdes_wrapper",
+  "version": "1.0.0",
+  "description": "An wrapper to @ottony sdes project to be used on @gabriel-araujjo node-chat",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ottony Costa <ottony93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sdes": "git+https://github.com/ottony/sdes.git"
+  }
+}
