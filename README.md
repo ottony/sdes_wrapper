@@ -1,5 +1,5 @@
 # sdes_wrapper
-An wrapper implementing [stream.Transform](https://nodejs.org/api/stream.html#stream_class_stream_transform) from http://github.com/ottony/sdes to be used on https://github.com/gabriel-araujjo/node-chat
+A wrapper implementing [stream.Transform](https://nodejs.org/api/stream.html#stream_class_stream_transform) from http://github.com/ottony/sdes to be used on https://github.com/gabriel-araujjo/node-chat
 
 # Usage
 
