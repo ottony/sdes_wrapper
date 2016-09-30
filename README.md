@@ -13,7 +13,7 @@ let dec = new SDesStream.SDesStreamDecrypt({key: 123});
 ɚ��.l // Is 'c99a9ac92e6c' hexadecimal buffer
 
 > Buffer.from('c99a9ac92e6c', 'hex').toString();
-'ɚ��.l'
+ɚ��.l
 
 > let b = Buffer.from('c99a9ac92e6c', 'hex');
 <Buffer c9 9a 9a c9 2e 6c>
