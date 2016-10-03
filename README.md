@@ -4,7 +4,7 @@ A wrapper implementing [stream.Transform](https://nodejs.org/api/stream.html#str
 # Usage
 
 ```javascript
-const SDesStream = require('./lib/index.js');
+const SDesStream = require('sdes_stream');
 
 let enc = new SDesStream.SDesStreamEncrypt({key: 123});
 let dec = new SDesStream.SDesStreamDecrypt({key: 123});
