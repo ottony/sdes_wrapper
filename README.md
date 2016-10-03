@@ -6,8 +6,8 @@ A wrapper implementing [stream.Transform](https://nodejs.org/api/stream.html#str
 ```javascript
 const SDesStream = require('sdes_stream');
 
-let enc = new SDesStream.SDesStreamEncrypt({key: 123});
-let dec = new SDesStream.SDesStreamDecrypt({key: 123});
+let enc = new SDesStream.Encrypt({key: 123});
+let dec = new SDesStream.Decrypt({key: 123});
 
 > enc.write('ottony')
 ɚ��.l // Is 'c99a9ac92e6c' hexadecimal buffer
