@@ -1,5 +1,5 @@
 {
-  "name": "sdes_wrapper",
+  "name": "sdes_stream",
   "version": "1.0.0",
   "description": "An wrapper to @ottony sdes project to be used on @gabriel-araujjo node-chat",
   "main": "lib/index.js",
